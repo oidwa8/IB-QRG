@@ -89,6 +89,20 @@ p {
     color: yellow;
 }
 
+@media(prefers-color-scheme: light) {
+    body {
+    background-color: #121212;
+    color: #fff;
+    }
+}
+
+@media(prefers-color-scheme: dark) {
+    body {
+    background-color: #fff;
+    color: #121212;
+    }
+}
+
 /* humour me. */
 
 .blue {
