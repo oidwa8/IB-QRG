@@ -43,3 +43,12 @@ h2 {
     .wrapper {
         width: 100%;
         }
+
+.contents {
+    height: 220px;
+    width: auto;
+    overflow: auto;
+    position: relative;
+    border: 10px;
+    border-radius: 10%;
+}
