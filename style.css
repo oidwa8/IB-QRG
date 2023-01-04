@@ -23,6 +23,10 @@
     src: url(fonts/Syne-SemiBold.otf);
 }
 
+body {
+    font-family: monospace;
+}
+
 h1 {
     font-family: Syne-ExtraBold, sans-serif;
     font-weight: bold;
@@ -32,8 +36,8 @@ h2 {
     font-family: Syne-Bold, sans-serif;
 }
 
-a {
-    font-family: Syne-Regular, sans-serif;
+p {
+    font-family: monospace;
 }
 
 .contents {
