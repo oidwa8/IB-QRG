@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Syne-Bold;
+    src: url(fonts/Syne-Bold.otf);
+}
+
+@font-face {
+    font-family: Syne-ExtraBold;
+    src: url(fonts/Syne-ExtraBold.otf);
+}
+
+@font-face {
+    font-family: Syne-Medium;
+    src: url(fonts/Syne-Medium.otf);
+}
+
+@font-face {
+    font-family: Syne-Regular;
+    src: url(fonts/Syne-Regular.otf);
+}
+
+@font-face {
+    font-family: Syne-SemiBold;
+    src: url(fonts/Syne-SemiBold.otf);
+}
