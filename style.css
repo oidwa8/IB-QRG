@@ -32,6 +32,29 @@ h2 {
     font-family: Syne-Bold, sans-serif;
 }
 
+a {
+    font-family: Syne-Regular, sans-serif;
+}
+
+.contents {
+    display: block;
+}
+
+.contents a {
+    text-decoration: none; 
+}
+
+.contents-scroll {
+    height: 220px;
+    width: auto;
+    overflow: auto;
+    position: relative;
+    border: 1px;
+    border-color: #000;
+    border-style: solid;
+    padding: 0 15px 0 15px;
+}
+
 /* Condensed format */
 .wrapper {
     width: 700px;
@@ -42,13 +65,4 @@ h2 {
 @media(orientation:portrait) {
     .wrapper {
         width: 100%;
-        }
-
-.contents {
-    height: 220px;
-    width: auto;
-    overflow: auto;
-    position: relative;
-    border: 10px;
-    border-radius: 10%;
-}
+    }
