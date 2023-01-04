@@ -49,9 +49,9 @@ p {
 }
 
 .contents-scroll {
-    height: 220px;
+/*    height: 300px; */
     width: auto;
-    overflow: auto;
+/*    overflow: auto; */
     position: relative;
     border: 1px;
     border-color: #000;
