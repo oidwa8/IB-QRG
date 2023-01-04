@@ -22,3 +22,12 @@
     font-family: Syne-SemiBold;
     src: url(fonts/Syne-SemiBold.otf);
 }
+
+h1 {
+    font-family: Syne-ExtraBold, sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: Syne-Bold, sans-serif;
+}
