@@ -1,4 +1,4 @@
 # IB-QRG
-IB Resources Website. For EGR23 use.
+IB QRG "Quick Reference Guide" resources website. For EGR23 use.
 
 [ib.knpyta.com](ib.knpyta.com)
