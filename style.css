@@ -65,6 +65,41 @@ p {
     margin: 0 auto;
 }
 
+.dark-switch button {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(54, 54, 54);
+    border: none;
+    color: #fff;
+    padding: 5px;
+    font-family: monospace;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #fff;
+  }
+
+.dark-mode .contents-scroll {
+    border-color: #fff;
+}
+
+.dark-mode a {
+    color: yellow;
+}
+
+/* humour me. */
+
+.blue {
+    color: blue;
+}
+
+.dark-mode .blue {
+    color: yellow;
+}
+
+
 /* Mobile devices */
 @media(orientation:portrait) {
     .wrapper {
