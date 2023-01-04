@@ -31,3 +31,15 @@ h1 {
 h2 {
     font-family: Syne-Bold, sans-serif;
 }
+
+/* Condensed format */
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* Mobile devices */
+@media(orientation:portrait) {
+    .wrapper {
+        width: 100%;
+        }
